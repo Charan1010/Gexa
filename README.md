@@ -9,3 +9,7 @@ Second Step:
 In the next step, we used the trained model to convert the real time hand gestures from live feed (laptop camera) into appropriate alexa commands .The alexa commands will get triggered and played as audio whenever the model recognizes a new hand gesture from live feed.
 
 So our Gexa takes Alexa one step closer to serving the people who cannot speak.
+
+Example Hand Gesture
+
+https://github.com/Charan1010/Gexa/blob/master/hand_ges.png
