@@ -12,4 +12,4 @@ So our Gexa takes Alexa one step closer to serving the people who cannot speak.
 
 Example Hand Gesture
 
-![alt text](https://github.com/Charan1010/Gexa/blob/master/hand_ges.png)
+![alt text](https://github.com/Charan1010/Gexa/blob/master/images/hand_ges.png)
